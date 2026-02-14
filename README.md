@@ -30,3 +30,8 @@ In Unity, go to the **Top Menu Bar → Tools**
 
 Designed to bring **project management directly into Unity**, improving clarity, team coordination, and production efficiency ⚙️🎮
 Ideal for game dev teams, indie devs, and Agile workflows 💡
+
+📋 Task Board (Kanban Tool)
+![iamge alt](https://github.com/HabibSAID/Unity_Project_Management_Tools/blob/8f11dbcc6b34b31b6a038d7c3388162d08a3f385/Tasks%20Board%20(Kanban).png)
+📋 WBS Board (Phase-based Tool)
+![iamge alt](https://github.com/HabibSAID/Unity_Project_Management_Tools/blob/8f11dbcc6b34b31b6a038d7c3388162d08a3f385/WBS%20Board.png)
