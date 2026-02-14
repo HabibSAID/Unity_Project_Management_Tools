@@ -23,5 +23,7 @@ In Unity, go to the **Top Menu Bar → Tools**
 👉 **Tools → WBS Board → Open Boards** → the **WBS Board Launcher** appears → create your WBS Board
 👉 **Tools → Task Board → Open Boards** → the **Task Board Launcher** appears → create your Task Board
 
+🧪 **Tested and built with Unity 6**
+
 Designed to bring **project management directly into Unity**, improving clarity, team coordination, and production efficiency ⚙️🎮
 Ideal for game dev teams, indie devs, and Agile workflows 💡
