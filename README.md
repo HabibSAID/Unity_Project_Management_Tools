@@ -18,5 +18,10 @@ Built for real Agile/Scrum pipelines with smooth UI and clear task tracking 📋
 * Scalable structure
 * Developer-friendly design
 
+⚙️ **How to use:**
+In Unity, go to the **Top Menu Bar → Tools**
+👉 **Tools → WBS Board → Open Boards** → the **WBS Board Launcher** appears → create your WBS Board
+👉 **Tools → Task Board → Open Boards** → the **Task Board Launcher** appears → create your Task Board
+
 Designed to bring **project management directly into Unity**, improving clarity, team coordination, and production efficiency ⚙️🎮
 Ideal for game dev teams, indie devs, and Agile workflows 💡
