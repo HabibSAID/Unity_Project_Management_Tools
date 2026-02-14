@@ -20,8 +20,8 @@ Built for real Agile/Scrum pipelines with smooth UI and clear task tracking 📋
 
 ⚙️ **How to use:**
 In Unity, go to the **Top Menu Bar → Tools**
-👉 **Tools → WBS Board → Open Boards** → the **WBS Board Launcher** appears → create your WBS Board
-👉 **Tools → Task Board → Open Boards** → the **Task Board Launcher** appears → create your Task Board
+👉 **Tools → Open WBS Boards** → the **WBS Board Launcher** appears → create your WBS Board
+👉 **Tools → Open Tasks Boards** → the **Task Board Launcher** appears → create your Task Board
 
 🧪 **Tested and built with Unity 6**
 
